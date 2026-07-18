@@ -1,0 +1,34 @@
+div{
+    width: 500px;
+    height:auto;
+    border: 1px solid #000;
+    margin:  auto;
+    text-align:center;
+    border:3px solid #000;
+}
+
+h2{
+    text-decoration: underline;
+}
+h1{
+    font-family:'Geist Pixel', sans-serif;
+}  
+h3{
+    font-family:'Geomini', sans-serif;
+}
+h2{
+    font-family: 'one', sans-serif;
+}
+p{
+    font-family: 'two', sans-serif;
+}
+@font-face {
+    font-family: "one";
+    src: url(Hullgaria.otf);
+   
+}
+@font-face {
+    font-family: "two";
+    src: url(Peach\ Fruit.otf);
+   
+}
